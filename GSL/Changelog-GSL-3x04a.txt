@@ -1,6 +1,6 @@
 Портрирование аддона GearScore Lite для сервера Sirus.su
 Автор: MrS4g0 aka Леначка-Neltharion-x3
-За основу был взять аддон версии 3x04a: https://www.curseforge.com/wow/addons/gearscorelite/files/432528
+За основу был взять аддон версии 3x04: https://www.curseforge.com/wow/addons/gearscorelite/files/432528
 
 
 Версия-3x04a(25.06.20)
