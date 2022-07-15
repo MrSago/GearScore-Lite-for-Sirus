@@ -265,7 +265,7 @@ local pgs = CreateFrame("Frame", "PGS", PaperDollFrameEquipInset)
 pgs:SetFrameStrata("HIGH")
 pgs:SetHeight(29)
 pgs:SetWidth(167)
-pgs:SetPoint("BOTTOM", "PaperDollFrameEquipInset", "BOTTOM", 95, 17)
+pgs:SetPoint("BOTTOM", "PaperDollFrameEquipInset", "BOTTOM", 93, 25)
 pgs:Show()
 
 pgs:CreateFontString("PersonalGearScore")
