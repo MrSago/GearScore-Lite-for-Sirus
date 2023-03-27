@@ -1,7 +1,11 @@
 Портрирование аддона GearScore Lite для сервера Sirus.su
-Автор: MrS4g0 aka Захотаю-Algalon-x4
+Автор: MrS4g0 aka Кекисный-Algalon-x4
 За основу был взять аддон версии 3x04: https://www.curseforge.com/wow/addons/gearscorelite/files/432528
 
+Версия-3x04c(27.03.23)
+	-Исправлен баг с маленькими значениями GearScore
+	-Переместил значение GearScore на уровень с iLevel (стрелы охотников перекрывали числа)
+	-Автоформат кода
 
 Версия-3x04b(15.07.22)
 	-Изменены цвета всех iLevel
