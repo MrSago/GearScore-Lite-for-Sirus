@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: GSL |r|cFF0038FF[Special for Sirus.su]|r
 ## Notes: Lite version of GearScore
-## Version: 3x04a
+## Version: 3x04c
 ## Author: Mirrikat45 (ported by MrS4g0)
 ## SavedVariables: GS_Settings
 
