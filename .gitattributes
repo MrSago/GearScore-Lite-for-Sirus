@@ -1,0 +1,17 @@
+.gitattributes      export-ignore
+.gitignore          export-ignore
+*README.md          export-ignore
+
+*text=auto
+
+# GitHub
+.gitignore          text
+.gitattributes      text
+*.md                text
+
+# Source files
+*.lua               text
+*.toc               text
+
+# Txt files
+*.txt               text
